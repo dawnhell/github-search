@@ -1,0 +1,20 @@
+{
+  "name": "getting_api",
+  "version": "1.0.0",
+  "description": "Get api from GitHub",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log('It's working!');",
+    "start": "node server.js"
+  },
+  "author": "Vladislav Klochkov",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "node-static": "^0.7.9"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
